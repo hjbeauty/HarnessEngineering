@@ -1,0 +1,57 @@
+name: an-harness-course
+
+services:
+  hermes:
+    # Official release observed on 2026-09-09. Pin both tag and OCI index digest.
+    image: nousresearch/hermes-agent:v2026.9.7@sha256:63bfb6d732f49a55d453e801057273785cc61e0f6ee43db3fa2f2a79846301b7
+    # Foreground dashboard only. Do not also enable HERMES_DASHBOARD=1.
+    command: ["dashboard", "--host", "0.0.0.0", "--port", "9119", "--no-open"]
+    working_dir: /workspace
+    restart: "no"
+    ports:
+      - "127.0.0.1:${DASHBOARD_PORT:-9119}:9119"
+    environment:
+      HERMES_HOME: /opt/data
+      HERMES_WRITE_SAFE_ROOT: /workspace:/opt/data
+      HERMES_DASHBOARD_BASIC_AUTH_USERNAME: "${DASHBOARD_USERNAME:?Run prepare.ps1 first}"
+      HERMES_DASHBOARD_BASIC_AUTH_PASSWORD: "${DASHBOARD_PASSWORD:?Run prepare.ps1 first}"
+      HERMES_DASHBOARD_BASIC_AUTH_SECRET: "${DASHBOARD_SECRET:?Run prepare.ps1 first}"
+    volumes:
+      - type: volume
+        source: hermes-state
+        target: /opt/data
+      - type: bind
+        source: ./workspace
+        target: /workspace
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ./inputs
+        target: /inputs
+        read_only: true
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ./course-tools
+        target: /course-tools
+        read_only: true
+        bind:
+          create_host_path: false
+    security_opt:
+      - no-new-privileges:true
+    cpus: 2.0
+    mem_limit: 4g
+    pids_limit: 512
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import json,urllib.request; d=json.load(urllib.request.urlopen('http://127.0.0.1:9119/api/status',timeout=5)); assert d.get('auth_required') is True and 'basic' in d.get('auth_providers',[])"
+      interval: 15s
+      timeout: 10s
+      start_period: 90s
+      retries: 4
+
+volumes:
+  hermes-state:
