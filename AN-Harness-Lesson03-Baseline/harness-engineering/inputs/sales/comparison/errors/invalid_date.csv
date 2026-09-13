@@ -1,0 +1,9 @@
+date,order_id,category,product,quantity,unit_price,region
+2026-11-25,V-0029,Monitor,32-inch Monitor,3,480000,Jeju
+2026-11-04,V-0021,Office,Mouse,3,20900,Daejeon
+2026-11-25,V-0019,Accessory,Laptop Stand,5,43700,Daegu
+2026-11-20,V-0028,Monitor,27-inch Monitor,5,294500,Daejeon
+2026-11-25,V-0032,Accessory,Laptop Stand,9,46000,Daejeon
+2026-11-31,V-0024,Storage,USB Drive 128GB,5,23800,Daegu
+2026-11-16,V-0003,Monitor,32-inch Monitor,9,480000,Busan
+2026-11-17,V-0018,Office,Keyboard,1,42750,Seoul

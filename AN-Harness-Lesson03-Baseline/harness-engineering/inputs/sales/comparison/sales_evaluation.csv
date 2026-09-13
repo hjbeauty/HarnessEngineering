@@ -1,0 +1,97 @@
+date,order_id,category,product,quantity,unit_price,region
+2026-08-04,E-0005,Storage,Portable SSD 1TB,1,103500,Ulsan
+2026-08-25,E-0004,Storage,USB Drive 128GB,8,18900,Busan
+2026-08-16,E-0008,Monitor,27-inch Monitor,1,216000,Ulsan
+2026-08-09,E-0074,Accessory,Laptop Stand,5,35000,Busan
+2026-08-17,E-0012,Storage,USB Drive 128GB,5,21000,Ulsan
+2026-08-22,E-0017,Storage,USB Drive 128GB,5,16800,Ulsan
+2026-08-21,E-0037,Storage,Portable SSD 1TB,1,92000,Gwangju
+2026-08-16,E-0007,Storage,USB Drive 128GB,2,16800,Seoul
+2026-08-12,E-0015,Storage,USB Drive 128GB,1,18900,Daejeon
+2026-08-21,E-0022,Office,Desk Lamp,50000,100000,Jeju
+2026-08-01,E-0095,Accessory,Laptop Stand,13,28000,Incheon
+2026-08-17,E-0061,Accessory,USB-C Hub,3,65000,Seoul
+2026-08-09,E-0029,Monitor,24-inch Monitor,1,171000,Ulsan
+2026-08-14,E-0073,Office,Keyboard,5,32000,Daejeon
+2026-08-03,E-0054,Office,Desk Lamp,5,21600,Daejeon
+2026-08-16,E-0047,Accessory,USB-C Hub,8,65000,Gwangju
+2026-08-13,E-0006,Monitor,24-inch Monitor,2,171000,Jeju
+2026-08-20,E-0016,Office,Mouse,8,18000,Incheon
+2026-08-14,E-0052,Office,Desk Lamp,13,24000,Daegu
+2026-08-10,E-0081,Accessory,Webcam,1,57600,Seoul
+2026-08-11,E-0028,Office,Mouse,8,16200,Ulsan
+2026-08-15,E-0009,Storage,USB Drive 128GB,3,18900,Daegu
+2026-08-19,E-0011,Storage,USB Drive 128GB,2,16800,Seoul
+2026-08-25,E-0035,Accessory,Laptop Stand,5,28000,Seoul
+2026-08-14,E-0027,Office,Keyboard,1,32000,Incheon
+2026-08-06,E-0088,Accessory,USB-C Hub,13,58500,Jeju
+2026-08-08,E-0034,Monitor,27-inch Monitor,13,243000,Incheon
+2026-08-03,E-0053,Storage,USB Drive 128GB,8,16800,Ulsan
+2026-08-08,E-0032,Office,Desk Lamp,1,24000,Ulsan
+2026-08-23,E-0014,Office,Desk Lamp,8,19200,Ulsan
+2026-08-02,E-0025,Office,Mouse,13,16200,Busan
+2026-08-19,E-0062,Office,Mouse,13,16200,Jeju
+2026-08-06,E-0045,Office,Mouse,2,16200,Daejeon
+2026-08-25,E-0080,Office,Desk Lamp,1,24000,Daejeon
+2026-08-28,E-0039,Storage,USB Drive 128GB,1,18900,Ulsan
+2026-08-23,E-0048,Accessory,USB-C Hub,1,52000,Busan
+2026-08-02,E-0041,Storage,Portable SSD 1TB,3,92000,Gwangju
+2026-08-20,E-0033,Storage,USB Drive 128GB,13,16800,Busan
+2026-08-26,E-0010,Monitor,24-inch Monitor,1,171000,Incheon
+2026-08-04,E-0082,Office,Mouse,1,18000,Incheon
+2026-08-14,E-0018,Accessory,USB-C Hub,13,52000,Incheon
+2026-08-24,E-0031,Accessory,USB-C Hub,5,58500,Daejeon
+2026-08-03,E-0090,Accessory,USB-C Hub,5,58500,Seoul
+2026-08-07,E-0085,Accessory,Laptop Stand,13,31500,Jeju
+2026-08-24,E-0096,Monitor,27-inch Monitor,1,270000,Jeju
+2026-08-16,E-0019,Storage,USB Drive 128GB,1,21000,Daegu
+2026-08-19,E-0042,Monitor,27-inch Monitor,13,270000,Busan
+2026-08-17,E-0003,Accessory,USB-C Hub,8,52000,Incheon
+2026-08-28,E-0030,Accessory,Laptop Stand,1,35000,Seoul
+2026-08-20,E-0056,Accessory,USB-C Hub,5,65000,Ulsan
+2026-08-11,E-0001,Monitor,24-inch Monitor,2,190000,Jeju
+2026-08-26,E-0069,Office,Keyboard,1,32000,Busan
+2026-08-03,E-0070,Monitor,27-inch Monitor,5,270000,Gwangju
+2026-08-07,E-0086,Monitor,24-inch Monitor,13,171000,Daegu
+2026-08-24,E-0026,Monitor,24-inch Monitor,5,190000,Jeju
+2026-08-01,E-0092,Accessory,USB-C Hub,2,52000,Daegu
+2026-08-03,E-0089,Storage,USB Drive 128GB,8,18900,Daejeon
+2026-08-24,E-0076,Accessory,Laptop Stand,1,31500,Busan
+2026-08-15,E-0036,Accessory,USB-C Hub,1,58500,Daejeon
+2026-08-15,E-0050,Office,Mouse,3,14400,Jeju
+2026-08-11,E-0055,Monitor,27-inch Monitor,2,216000,Busan
+2026-08-13,E-0083,Office,Desk Lamp,13,19200,Gwangju
+2026-08-10,E-0023,Storage,USB Drive 128GB,8,21000,Daegu
+2026-08-22,E-0065,Office,Mouse,8,18000,Busan
+2026-08-05,E-0002,Office,Mouse,1,16200,Incheon
+2026-08-14,E-0072,Accessory,Laptop Stand,1,35000,Daegu
+2026-08-02,E-0024,Accessory,Laptop Stand,3,28000,Ulsan
+2026-08-17,E-0094,Accessory,Webcam,8,64800,Gwangju
+2026-08-17,E-0066,Monitor,24-inch Monitor,1,171000,Gwangju
+2026-08-22,E-0064,Office,Keyboard,13,28800,Incheon
+2026-08-20,E-0084,Monitor,27-inch Monitor,8,243000,Incheon
+2026-08-10,E-0059,Office,Keyboard,13,28800,Incheon
+2026-08-09,E-0087,Monitor,24-inch Monitor,1,171000,Daegu
+2026-08-21,E-0020,Office,Mouse,8,18000,Gwangju
+2026-08-09,E-0046,Accessory,Webcam,5,72000,Daejeon
+2026-08-09,E-0091,Monitor,27-inch Monitor,1,243000,Daegu
+2026-08-10,E-0068,Accessory,Laptop Stand,13,28000,Busan
+2026-08-21,E-0093,Office,Mouse,5,14400,Daejeon
+2026-08-28,E-0057,Office,Mouse,13,16200,Daejeon
+2026-08-05,E-0078,Accessory,Webcam,1,57600,Ulsan
+2026-08-24,E-0077,Accessory,USB-C Hub,2,52000,Incheon
+2026-08-06,E-0044,Accessory,USB-C Hub,2,58500,Gwangju
+2026-08-25,E-0051,Monitor,27-inch Monitor,8,270000,Seoul
+2026-08-12,E-0038,Accessory,Webcam,1,72000,Daejeon
+2026-08-14,E-0067,Office,Mouse,3,18000,Daegu
+2026-08-25,E-0040,Accessory,USB-C Hub,2,65000,Busan
+2026-08-28,E-0079,Office,Keyboard,13,32000,Jeju
+2026-08-16,E-0060,Office,Keyboard,3,25600,Gwangju
+2026-08-03,E-0071,Accessory,Webcam,8,72000,Gwangju
+2026-08-19,E-0058,Monitor,24-inch Monitor,8,171000,Ulsan
+2026-08-24,E-0013,Office,Desk Lamp,5,24000,Incheon
+2026-08-10,E-0075,Accessory,USB-C Hub,1,52000,Jeju
+2026-08-14,E-0063,Monitor,27-inch Monitor,1,216000,Incheon
+2026-08-26,E-0021,Office,Keyboard,5,25600,Ulsan
+2026-08-15,E-0043,Monitor,27-inch Monitor,3,270000,Daegu
+2026-08-04,E-0049,Monitor,27-inch Monitor,5,243000,Ulsan

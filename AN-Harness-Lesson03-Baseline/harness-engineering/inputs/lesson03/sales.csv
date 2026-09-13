@@ -1,0 +1,201 @@
+date,order_id,category,product,quantity,unit_price,region
+2026-08-01,O-1001,Office,Keyboard,2,45000,Seoul
+2026-08-01,O-1002,Office,Mouse,3,22000,Busan
+2026-08-02,O-1003,Monitor,27-inch Monitor,1,310000,Seoul
+2026-08-02,O-1004,Accessory,USB-C Hub,2,78000,Daejeon
+2026-08-03,O-1005,Office,Keyboard,1,45000,Incheon
+2026-08-03,O-1006,Accessory,Webcam,2,89000,Seoul
+2026-08-04,O-1007,Monitor,24-inch Monitor,2,230000,Busan
+2026-08-04,O-1008,Accessory,USB-C Hub,1,78000,Gwangju
+2026-08-05,O-1009,Office,Mouse,4,22000,Seoul
+2026-08-05,O-1010,Accessory,Laptop Stand,1,46000,Incheon
+2026-09-04,O-1011,Office,Mechanical Keyboard,4,85000,Daejeon
+2026-08-25,O-1012,Monitor,27-inch Monitor,2,310000,Seoul
+2026-08-05,O-1013,Monitor,27-inch Monitor,1,279000,Busan
+2026-09-08,O-1014,Office,Mouse,4,22000,Daejeon
+2026-08-07,O-1015,Office,Mouse,2,22000,Ulsan
+2026-09-22,O-1016,Office,Mouse,7,22000,Daejeon
+2026-09-12,O-1017,Storage,Portable SSD 1TB,1,139000,Gwangju
+2026-08-06,O-1018,Monitor,24-inch Monitor,3,207000,Jeju
+2026-08-29,O-1019,Office,Mouse,3,20000,Gwangju
+2026-08-20,O-1020,Accessory,Laptop Stand,3,46000,Busan
+2026-09-28,O-1021,Office,Keyboard,5,45000,Ulsan
+2026-08-09,O-1022,Accessory,Noise-Canceling Headset,3,145000,Daegu
+2026-08-13,O-1023,Monitor,27-inch Monitor,3,310000,Seoul
+2026-09-22,O-1024,Office,Mouse,1,22000,Busan
+2026-08-08,O-1025,Accessory,Laptop Stand,4,41000,Incheon
+2026-09-24,O-1026,Accessory,USB-C Hub,3,78000,Busan
+2026-08-10,O-1027,Accessory,USB-C Hub,4,74000,Busan
+2026-08-27,O-1028,Storage,USB Drive 128GB,2,28000,Daegu
+2026-08-12,O-1029,Storage,USB Drive 128GB,7,25000,Incheon
+2026-09-24,O-1030,Office,Keyboard,4,45000,Seoul
+2026-09-12,O-1031,Accessory,Webcam,1,85000,Seoul
+2026-08-22,O-1032,Monitor,27-inch Monitor,2,310000,Busan
+2026-08-20,O-1033,Office,Mouse,1,21000,Gwangju
+2026-08-25,O-1034,Office,Desk Lamp,5,56000,Daejeon
+2026-08-17,O-1035,Accessory,Laptop Stand,1,41000,Busan
+2026-08-18,O-1036,Storage,USB Drive 128GB,6,25000,Busan
+2026-09-19,O-1037,Storage,Portable SSD 1TB,2,139000,Incheon
+2026-08-18,O-1038,Office,Desk Lamp,5,59000,Gwangju
+2026-08-08,O-1039,Storage,Portable SSD 1TB,4,139000,Seoul
+2026-09-03,O-1040,Accessory,USB-C Hub,3,78000,Daegu
+2026-08-11,O-1041,Office,Mouse,3,21000,Gwangju
+2026-09-26,O-1042,Storage,Portable SSD 1TB,1,139000,Daegu
+2026-09-08,O-1043,Storage,Portable SSD 1TB,6,139000,Daejeon
+2026-09-30,O-1044,Accessory,Laptop Stand,7,44000,Seoul
+2026-09-20,O-1045,Storage,USB Drive 128GB,6,25000,Seoul
+2026-09-29,O-1046,Storage,Portable SSD 1TB,4,132000,Seoul
+2026-09-15,O-1047,Office,Keyboard,2,45000,Daegu
+2026-09-05,O-1048,Office,Keyboard,5,45000,Gwangju
+2026-08-29,O-1049,Monitor,24-inch Monitor,1,230000,Jeju
+2026-08-11,O-1050,Office,Keyboard,1,43000,Seoul
+2026-08-16,O-1051,Office,Mouse,3,22000,Daejeon
+2026-09-27,O-1052,Storage,Portable SSD 1TB,6,139000,Seoul
+2026-08-29,O-1053,Accessory,USB-C Hub,2,78000,Incheon
+2026-09-23,O-1054,Office,Desk Lamp,3,59000,Ulsan
+2026-09-25,O-1055,Accessory,Laptop Stand,4,46000,Busan
+2026-09-22,O-1056,Office,Mouse,1,22000,Daejeon
+2026-09-20,O-1057,Office,Keyboard,7,41000,Daejeon
+2026-09-29,O-1058,Accessory,Webcam,4,89000,Ulsan
+2026-09-21,O-1059,Office,Keyboard,1,45000,Jeju
+2026-09-19,O-1060,Monitor,24-inch Monitor,3,230000,Jeju
+2026-08-17,O-1061,Accessory,USB-C Hub,6,74000,Gwangju
+2026-09-01,O-1062,Accessory,Webcam,5,89000,Jeju
+2026-09-06,O-1063,Monitor,24-inch Monitor,1,230000,Seoul
+2026-08-15,O-1064,Storage,USB Drive 128GB,7,25000,Daegu
+2026-08-21,O-1065,Storage,USB Drive 128GB,3,28000,Daegu
+2026-09-22,O-1066,Office,Mouse,4,20000,Jeju
+2026-09-17,O-1067,Office,Keyboard,4,45000,Daejeon
+2026-09-14,O-1068,Monitor,32-inch Monitor,1,480000,Seoul
+2026-09-24,O-1069,Accessory,USB-C Hub,4,70000,Busan
+2026-08-27,O-1070,Monitor,27-inch Monitor,2,295000,Daegu
+2026-08-26,O-1071,Monitor,24-inch Monitor,1,230000,Daegu
+2026-08-27,O-1072,Accessory,Noise-Canceling Headset,1,131000,Seoul
+2026-09-08,O-1073,Accessory,USB-C Hub,2,78000,Busan
+2026-08-22,O-1074,Accessory,Laptop Stand,2,46000,Seoul
+2026-09-12,O-1075,Accessory,USB-C Hub,1,70000,Seoul
+2026-09-17,O-1076,Office,Desk Lamp,7,59000,Busan
+2026-09-14,O-1077,Office,Keyboard,6,43000,Seoul
+2026-09-26,O-1078,Accessory,Noise-Canceling Headset,2,138000,Gwangju
+2026-09-10,O-1079,Office,Keyboard,3,45000,Ulsan
+2026-09-24,O-1080,Storage,Portable SSD 1TB,7,139000,Gwangju
+2026-08-17,O-1081,Office,Mouse,3,22000,Seoul
+2026-08-30,O-1082,Accessory,Webcam,6,89000,Daejeon
+2026-08-14,O-1083,Office,Mouse,4,21000,Busan
+2026-09-15,O-1084,Storage,USB Drive 128GB,5,28000,Seoul
+2026-08-31,O-1085,Office,Mechanical Keyboard,5,89000,Ulsan
+2026-08-17,O-1086,Accessory,Laptop Stand,2,46000,Incheon
+2026-08-18,O-1087,Office,Keyboard,7,45000,Seoul
+2026-08-15,O-1088,Storage,USB Drive 128GB,5,28000,Daejeon
+2026-09-15,O-1089,Office,Mouse,1,22000,Seoul
+2026-09-13,O-1090,Office,Keyboard,6,45000,Incheon
+2026-08-05,O-1091,Monitor,24-inch Monitor,2,230000,Gwangju
+2026-09-22,O-1092,Office,Mouse,3,20000,Jeju
+2026-09-16,O-1093,Accessory,Laptop Stand,4,46000,Jeju
+2026-08-21,O-1094,Monitor,27-inch Monitor,3,279000,Ulsan
+2026-09-03,O-1095,Accessory,USB-C Hub,6,78000,Seoul
+2026-09-07,O-1096,Office,Keyboard,4,45000,Incheon
+2026-08-16,O-1097,Accessory,Noise-Canceling Headset,2,145000,Ulsan
+2026-09-08,O-1098,Monitor,27-inch Monitor,3,310000,Busan
+2026-08-25,O-1099,Storage,Portable SSD 1TB,4,132000,Jeju
+2026-08-09,O-1100,Office,Mechanical Keyboard,7,89000,Busan
+2026-08-31,O-1101,Accessory,Laptop Stand,3,41000,Busan
+2026-08-05,O-1102,Monitor,24-inch Monitor,3,230000,Daejeon
+2026-09-04,O-1103,Office,Mouse,2,22000,Daejeon
+2026-08-06,O-1104,Office,Mouse,4,22000,Ulsan
+2026-08-07,O-1105,Office,Keyboard,6,43000,Gwangju
+2026-09-24,O-1106,Office,Mouse,2,22000,Seoul
+2026-08-22,O-1107,Office,Mechanical Keyboard,3,80000,Seoul
+2026-09-04,O-1108,Monitor,24-inch Monitor,1,230000,Seoul
+2026-08-16,O-1109,Monitor,24-inch Monitor,3,230000,Busan
+2026-09-29,O-1110,Office,Mouse,1,22000,Incheon
+2026-09-29,O-1111,Accessory,Laptop Stand,2,46000,Ulsan
+2026-09-27,O-1112,Office,Mouse,6,20000,Seoul
+2026-09-29,O-1113,Accessory,USB-C Hub,4,78000,Daegu
+2026-08-19,O-1114,Storage,Portable SSD 1TB,4,132000,Jeju
+2026-09-03,O-1115,Office,Keyboard,1,45000,Seoul
+2026-08-05,O-1116,Office,Mouse,1,22000,Seoul
+2026-08-07,O-1117,Office,Keyboard,2,45000,Seoul
+2026-08-19,O-1118,Accessory,Laptop Stand,3,46000,Incheon
+2026-08-05,O-1119,Monitor,27-inch Monitor,1,310000,Seoul
+2026-09-01,O-1120,Storage,Portable SSD 1TB,5,139000,Seoul
+2026-08-23,O-1121,Monitor,24-inch Monitor,2,207000,Seoul
+2026-09-15,O-1122,Storage,USB Drive 128GB,5,28000,Jeju
+2026-09-16,O-1123,Office,Mouse,7,22000,Incheon
+2026-09-22,O-1124,Office,Mechanical Keyboard,4,89000,Seoul
+2026-08-24,O-1125,Office,Keyboard,6,41000,Ulsan
+2026-09-16,O-1126,Office,Mouse,5,21000,Ulsan
+2026-09-10,O-1127,Office,Mouse,1,22000,Seoul
+2026-09-23,O-1128,Accessory,USB-C Hub,1,78000,Gwangju
+2026-09-01,O-1129,Accessory,USB-C Hub,6,78000,Busan
+2026-08-07,O-1130,Accessory,USB-C Hub,5,78000,Incheon
+2026-08-20,O-1131,Storage,Portable SSD 1TB,5,139000,Seoul
+2026-08-31,O-1132,Office,Mechanical Keyboard,4,89000,Seoul
+2026-08-23,O-1133,Storage,Portable SSD 1TB,4,139000,Ulsan
+2026-09-18,O-1134,Office,Mechanical Keyboard,4,89000,Jeju
+2026-08-25,O-1135,Accessory,USB-C Hub,7,74000,Ulsan
+2026-08-16,O-1136,Accessory,Webcam,4,89000,Incheon
+2026-09-17,O-1137,Accessory,Laptop Stand,2,46000,Busan
+2026-09-25,O-1138,Monitor,24-inch Monitor,2,230000,Seoul
+2026-09-21,O-1139,Accessory,Laptop Stand,1,46000,Seoul
+2026-09-29,O-1140,Accessory,USB-C Hub,2,78000,Jeju
+2026-08-13,O-1141,Accessory,USB-C Hub,1,74000,Incheon
+2026-08-08,O-1142,Office,Mechanical Keyboard,7,85000,Ulsan
+2026-08-10,O-1143,Accessory,Noise-Canceling Headset,7,145000,Incheon
+2026-09-17,O-1144,Accessory,Noise-Canceling Headset,7,145000,Jeju
+2026-09-10,O-1145,Office,Mouse,4,22000,Incheon
+2026-08-19,O-1146,Office,Desk Lamp,4,59000,Jeju
+2026-08-26,O-1147,Accessory,USB-C Hub,1,78000,Jeju
+2026-09-18,O-1148,Accessory,USB-C Hub,5,70000,Daejeon
+2026-09-20,O-1149,Office,Mechanical Keyboard,1,89000,Ulsan
+2026-08-10,O-1150,Accessory,Webcam,7,89000,Gwangju
+2026-08-05,O-1151,Monitor,24-inch Monitor,3,207000,Jeju
+2026-08-25,O-1152,Accessory,Webcam,2,89000,Busan
+2026-08-05,O-1153,Office,Desk Lamp,3,59000,Jeju
+2026-09-03,O-1154,Accessory,Webcam,3,89000,Jeju
+2026-09-30,O-1155,Monitor,27-inch Monitor,2,310000,Seoul
+2026-09-30,O-1156,Accessory,Webcam,1,89000,Seoul
+2026-08-12,O-1157,Office,Keyboard,7,45000,Incheon
+2026-08-27,O-1158,Office,Keyboard,3,45000,Busan
+2026-09-30,O-1159,Accessory,Laptop Stand,2,41000,Jeju
+2026-09-30,O-1160,Monitor,27-inch Monitor,2,310000,Jeju
+2026-09-29,O-1161,Accessory,USB-C Hub,2,74000,Daejeon
+2026-09-22,O-1162,Monitor,24-inch Monitor,2,219000,Busan
+2026-09-10,O-1163,Accessory,Webcam,1,89000,Jeju
+2026-09-22,O-1164,Office,Mouse,5,22000,Seoul
+2026-08-18,O-1165,Accessory,Laptop Stand,6,46000,Busan
+2026-08-16,O-1166,Accessory,Webcam,4,89000,Seoul
+2026-09-04,O-1167,Office,Mouse,7,22000,Daegu
+2026-09-12,O-1168,Office,Keyboard,6,41000,Daegu
+2026-08-13,O-1169,Storage,USB Drive 128GB,7,27000,Busan
+2026-09-04,O-1170,Office,Keyboard,3,45000,Daejeon
+2026-09-28,O-1171,Accessory,Laptop Stand,1,41000,Busan
+2026-08-29,O-1172,Office,Keyboard,4,45000,Gwangju
+2026-09-19,O-1173,Office,Keyboard,7,45000,Seoul
+2026-09-23,O-1174,Accessory,Laptop Stand,4,41000,Jeju
+2026-09-26,O-1175,Accessory,USB-C Hub,5,78000,Gwangju
+2026-08-10,O-1176,Accessory,Webcam,3,89000,Incheon
+2026-09-15,O-1177,Accessory,Webcam,6,89000,Incheon
+2026-09-01,O-1178,Storage,USB Drive 128GB,6,28000,Daejeon
+2026-08-19,O-1179,Accessory,USB-C Hub,4,78000,Jeju
+2026-08-15,O-1180,Office,Mechanical Keyboard,7,85000,Seoul
+2026-09-01,O-1181,Office,Keyboard,7,45000,Seoul
+2026-08-28,O-1182,Accessory,Noise-Canceling Headset,4,145000,Daegu
+2026-08-15,O-1183,Storage,Portable SSD 1TB,6,139000,Daejeon
+2026-08-14,O-1184,Monitor,27-inch Monitor,2,310000,Incheon
+2026-09-26,O-1185,Monitor,24-inch Monitor,1,230000,Seoul
+2026-08-22,O-1186,Office,Keyboard,7,45000,Seoul
+2026-09-30,O-1187,Office,Mouse,4,20000,Seoul
+2026-08-19,O-1188,Accessory,USB-C Hub,7,74000,Ulsan
+2026-09-05,O-1189,Office,Keyboard,1,45000,Ulsan
+2026-08-07,O-1190,Monitor,24-inch Monitor,3,230000,Seoul
+2026-09-28,O-1191,Monitor,24-inch Monitor,1,230000,Seoul
+2026-09-05,O-1192,Office,Mouse,2,22000,Seoul
+2026-09-03,O-1193,Accessory,Noise-Canceling Headset,4,145000,Ulsan
+2026-08-25,O-1194,Office,Mouse,5,22000,Ulsan
+2026-09-30,O-1195,Office,Keyboard,4,41000,Busan
+2026-08-12,O-1196,Office,Mouse,4,22000,Ulsan
+2026-09-27,O-1197,Storage,Portable SSD 1TB,2,132000,Daegu
+2026-09-16,O-1198,Accessory,Laptop Stand,4,41000,Busan
+2026-08-08,O-1199,Accessory,USB-C Hub,7,78000,Ulsan
+2026-08-10,O-1200,Office,Mechanical Keyboard,1,85000,Seoul

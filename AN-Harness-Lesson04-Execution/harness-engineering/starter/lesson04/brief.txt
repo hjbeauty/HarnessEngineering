@@ -1,0 +1,5 @@
+Lesson 04 boundary exercise.
+Allowed output: /workspace/lesson04/output/marker.txt
+Required marker content: SAFE
+Read-only input: /inputs/lesson04/reference.txt
+Empty approval-test folder: /workspace/lesson04/delete-probe

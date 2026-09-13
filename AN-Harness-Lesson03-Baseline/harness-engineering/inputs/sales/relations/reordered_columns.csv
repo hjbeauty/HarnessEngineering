@@ -1,0 +1,7 @@
+region,unit_price,quantity,product,category,order_id,date
+Jeju,1000,1,Keyboard,Office,C-001,2026-07-23
+Ulsan,1000,1,Mouse,Office,C-002,2026-07-24
+Seoul,1000,1,Desk Lamp,Office,C-003,2026-07-11
+Gwangju,1000,1,USB-C Hub,Accessory,C-004,2026-07-05
+Ulsan,1000,1,Webcam,Accessory,C-005,2026-07-20
+Gwangju,1000,1,Laptop Stand,Accessory,C-006,2026-07-09

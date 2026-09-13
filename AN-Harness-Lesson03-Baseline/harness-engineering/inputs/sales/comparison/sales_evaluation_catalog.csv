@@ -1,0 +1,40 @@
+date,order_id,category,product,quantity,unit_price,region
+2026-11-25,V-0029,Monitor,32-inch Monitor,3,480000,Jeju
+2026-11-04,V-0021,Office,Mouse,3,20900,Daejeon
+2026-11-25,V-0019,Accessory,Laptop Stand,5,43700,Daegu
+2026-11-20,V-0028,Monitor,27-inch Monitor,5,294500,Daejeon
+2026-11-25,V-0032,Accessory,Laptop Stand,9,46000,Daejeon
+2026-11-02,V-0024,Storage,USB Drive 128GB,5,23800,Daegu
+2026-11-16,V-0003,Monitor,32-inch Monitor,9,480000,Busan
+2026-11-17,V-0018,Office,Keyboard,1,42750,Seoul
+2026-11-05,V-0015,Monitor,27-inch Monitor,1,294500,Daejeon
+2026-11-25,V-0027,Monitor,24-inch Monitor,1,195500,Gwangju
+2026-11-06,V-0026,Accessory,Webcam,5,84550,Daegu
+2026-11-08,V-0033,Office,Mechanical Keyboard,5,89000,Jeju
+2026-11-18,V-0035,Accessory,Noise-Canceling Headset,1,123250,Busan
+2026-11-23,V-0031,Office,Keyboard,9,38250,Daejeon
+2026-11-24,V-0020,Office,Mechanical Keyboard,9,89000,Incheon
+2026-11-18,V-0001,Monitor,24-inch Monitor,3,218500,Jeju
+2026-11-17,V-0012,Accessory,USB-C Hub,5,66300,Ulsan
+2026-11-28,V-0006,Accessory,Laptop Stand,9,46000,Jeju
+2026-11-11,V-0002,Monitor,27-inch Monitor,1,294500,Incheon
+2026-11-22,V-0036,Storage,Portable SSD 1TB,1,132050,Seoul
+2026-11-11,V-0009,Accessory,Noise-Canceling Headset,3,123250,Daegu
+2026-11-09,V-0010,Storage,Portable SSD 1TB,5,139000,Daegu
+2026-11-02,V-0017,Office,Desk Lamp,1,50150,Gwangju
+2026-11-19,V-0023,Storage,Portable SSD 1TB,1,132050,Incheon
+2026-11-07,V-0008,Office,Mouse,1,22000,Ulsan
+2026-11-13,V-0030,Office,Desk Lamp,9,56050,Jeju
+2026-11-09,V-0037,Storage,USB Drive 128GB,3,26600,Busan
+2026-11-07,V-0014,Monitor,24-inch Monitor,5,195500,Ulsan
+2026-11-23,V-0022,Accessory,Noise-Canceling Headset,1,137750,Gwangju
+2026-11-13,V-0016,Monitor,32-inch Monitor,1,480000,Ulsan
+2026-11-12,V-0005,Office,Keyboard,5,45000,Busan
+2026-11-09,V-0025,Accessory,USB-C Hub,1,66300,Busan
+2026-11-21,V-0007,Office,Mechanical Keyboard,5,75650,Ulsan
+2026-11-21,V-0039,Accessory,Webcam,1,89000,Busan
+2026-11-07,V-0034,Office,Mouse,3,22000,Daegu
+2026-11-25,V-0004,Office,Desk Lamp,3,56050,Incheon
+2026-11-05,V-0011,Storage,USB Drive 128GB,5,28000,Seoul
+2026-11-15,V-0013,Accessory,Webcam,9,84550,Daegu
+2026-11-12,V-0038,Accessory,USB-C Hub,3,74100,Incheon

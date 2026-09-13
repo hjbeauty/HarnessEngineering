@@ -1,0 +1,11 @@
+date,order_id,category,product,quantity,unit_price,region
+2026-07-23,M-0009,Storage,Portable SSD 1TB,1,1000,Jeju
+2026-07-24,M-0004,Monitor,27-inch Monitor,2,2000,Ulsan
+2026-07-11,M-0002,Monitor,27-inch Monitor,3,3000,Seoul
+2026-07-05,M-0010,Accessory,Webcam,1,4000,Gwangju
+2026-07-20,M-0001,Storage,USB Drive 128GB,2,5000,Ulsan
+2026-07-09,M-0007,Office,Keyboard,3,1000,Gwangju
+2026-07-26,M-0005,Office,Desk Lamp,1,2000,Seoul
+2026-07-08,M-0003,Storage,USB Drive 128GB,2,3000,Daegu
+2026-07-27,M-0006,Accessory,Laptop Stand,3,4000,Busan
+2026-07-01,M-0008,Monitor,24-inch Monitor,1,5000,Daegu

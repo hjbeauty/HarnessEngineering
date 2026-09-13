@@ -1,0 +1,73 @@
+date,order_id,category,product,quantity,unit_price,region
+2026-07-10,P-0017,Monitor,24-inch Monitor,1,171000,Busan
+2026-07-22,P-0067,Storage,USB Drive 128GB,1,21000,Seoul
+2026-07-19,P-0018,Accessory,Webcam,2,72000,Jeju
+2026-07-09,P-0019,Office,Mouse,13,16200,Busan
+2026-07-11,P-0036,Office,Desk Lamp,2,24000,Gwangju
+2026-07-28,P-0021,Accessory,USB-C Hub,3,65000,Daegu
+2026-07-20,P-0002,Monitor,27-inch Monitor,8,216000,Incheon
+2026-07-28,P-0053,Accessory,Webcam,3,64800,Jeju
+2026-07-06,P-0010,Monitor,24-inch Monitor,1,190000,Busan
+2026-07-24,P-0051,Office,Keyboard,8,28800,Incheon
+2026-07-23,P-0050,Office,Mouse,2,16200,Busan
+2026-07-18,P-0015,Storage,Portable SSD 1TB,1,115000,Incheon
+2026-07-24,P-0049,Accessory,USB-C Hub,1,52000,Gwangju
+2026-07-24,P-0069,Storage,USB Drive 128GB,5,18900,Busan
+2026-07-19,P-0046,Accessory,Webcam,5,57600,Gwangju
+2026-07-17,P-0022,Office,Mouse,5,18000,Incheon
+2026-07-24,P-0071,Monitor,27-inch Monitor,1,270000,Incheon
+2026-07-03,P-0005,Accessory,Laptop Stand,1,28000,Ulsan
+2026-07-13,P-0037,Storage,USB Drive 128GB,1,18900,Incheon
+2026-07-21,P-0016,Storage,Portable SSD 1TB,5,92000,Daejeon
+2026-07-25,P-0034,Monitor,24-inch Monitor,3,190000,Daegu
+2026-07-28,P-0011,Accessory,Webcam,2,64800,Seoul
+2026-07-04,P-0027,Monitor,24-inch Monitor,5,152000,Jeju
+2026-07-06,P-0020,Office,Desk Lamp,5,19200,Seoul
+2026-07-28,P-0042,Monitor,24-inch Monitor,3,171000,Daejeon
+2026-07-23,P-0008,Office,Keyboard,5,25600,Ulsan
+2026-07-06,P-0060,Accessory,Webcam,2,57600,Daejeon
+2026-07-26,P-0072,Office,Desk Lamp,13,19200,Ulsan
+2026-07-14,P-0033,Office,Desk Lamp,3,24000,Incheon
+2026-07-21,P-0045,Accessory,USB-C Hub,13,58500,Incheon
+2026-07-12,P-0041,Storage,Portable SSD 1TB,3,115000,Jeju
+2026-07-16,P-0056,Office,Keyboard,1,25600,Ulsan
+2026-07-25,P-0014,Office,Keyboard,1,32000,Daejeon
+2026-07-13,P-0059,Office,Desk Lamp,5,21600,Daejeon
+2026-07-08,P-0064,Office,Keyboard,3,32000,Daejeon
+2026-07-28,P-0003,Office,Desk Lamp,2,19200,Seoul
+2026-07-10,P-0065,Accessory,Webcam,3,72000,Incheon
+2026-07-03,P-0031,Accessory,Laptop Stand,5,35000,Incheon
+2026-07-18,P-0032,Accessory,Webcam,1,72000,Daejeon
+2026-07-20,P-0001,Accessory,USB-C Hub,1,58500,Gwangju
+2026-07-09,P-0023,Office,Desk Lamp,1,21600,Gwangju
+2026-07-07,P-0029,Monitor,24-inch Monitor,3,152000,Seoul
+2026-07-02,P-0070,Accessory,Webcam,3,57600,Ulsan
+2026-07-05,P-0047,Monitor,24-inch Monitor,13,152000,Seoul
+2026-07-01,P-0004,Accessory,USB-C Hub,3,52000,Busan
+2026-07-19,P-0040,Storage,USB Drive 128GB,1,18900,Gwangju
+2026-07-22,P-0044,Monitor,27-inch Monitor,1,270000,Incheon
+2026-07-27,P-0055,Office,Mouse,5,16200,Daegu
+2026-07-15,P-0026,Accessory,Laptop Stand,1,35000,Incheon
+2026-07-21,P-0052,Storage,USB Drive 128GB,8,18900,Incheon
+2026-07-26,P-0038,Accessory,Laptop Stand,2,28000,Busan
+2026-07-06,P-0063,Accessory,Webcam,8,57600,Gwangju
+2026-07-04,P-0058,Office,Mouse,3,14400,Incheon
+2026-07-02,P-0013,Office,Mouse,8,16200,Jeju
+2026-07-26,P-0043,Storage,USB Drive 128GB,5,21000,Busan
+2026-07-20,P-0039,Accessory,Laptop Stand,1,28000,Jeju
+2026-07-20,P-0028,Storage,USB Drive 128GB,1,16800,Ulsan
+2026-07-06,P-0007,Office,Keyboard,8,25600,Daejeon
+2026-07-08,P-0024,Monitor,24-inch Monitor,8,190000,Incheon
+2026-07-16,P-0066,Accessory,USB-C Hub,8,65000,Gwangju
+2026-07-19,P-0030,Accessory,USB-C Hub,3,52000,Daegu
+2026-07-23,P-0009,Office,Keyboard,1,32000,Seoul
+2026-07-11,P-0006,Monitor,27-inch Monitor,13,243000,Daegu
+2026-07-04,P-0068,Office,Desk Lamp,8,21600,Seoul
+2026-07-22,P-0025,Monitor,27-inch Monitor,8,270000,Busan
+2026-07-14,P-0061,Office,Mouse,1,18000,Seoul
+2026-07-09,P-0035,Storage,Portable SSD 1TB,1,103500,Ulsan
+2026-07-12,P-0012,Storage,USB Drive 128GB,13,21000,Busan
+2026-07-27,P-0048,Monitor,24-inch Monitor,1,190000,Seoul
+2026-07-23,P-0062,Accessory,Webcam,1,72000,Busan
+2026-07-06,P-0057,Storage,USB Drive 128GB,1,18900,Busan
+2026-07-09,P-0054,Monitor,27-inch Monitor,1,243000,Busan

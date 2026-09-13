@@ -1,0 +1,53 @@
+date,order_id,category,product,quantity,unit_price,region
+2026-10-05,T-0020,Office,Mechanical Keyboard,2,89000,Incheon
+2026-10-24,T-0006,Accessory,Laptop Stand,7,43700,Daejeon
+2026-10-27,T-0031,Office,Keyboard,7,40500,Seoul
+2026-10-08,T-0014,Monitor,24-inch Monitor,7,230000,Gwangju
+2026-10-09,T-0046,Office,Mechanical Keyboard,4,80100,Ulsan
+2026-10-12,T-0008,Office,Mouse,7,19800,Ulsan
+2026-10-21,T-0007,Office,Mechanical Keyboard,4,80100,Gwangju
+2026-10-11,T-0019,Accessory,Laptop Stand,4,41400,Daejeon
+2026-10-08,T-0022,Accessory,Noise-Canceling Headset,2,137750,Daegu
+2026-10-22,T-0039,Accessory,Webcam,4,84550,Daegu
+2026-10-26,T-0035,Accessory,Noise-Canceling Headset,2,145000,Jeju
+2026-10-22,T-0040,Monitor,24-inch Monitor,1,207000,Jeju
+2026-10-28,T-0012,Accessory,USB-C Hub,7,70200,Daejeon
+2026-10-14,T-0044,Office,Keyboard,4,45000,Daegu
+2026-10-22,T-0002,Monitor,27-inch Monitor,4,310000,Jeju
+2026-10-10,T-0032,Accessory,Laptop Stand,2,43700,Busan
+2026-10-05,T-0043,Office,Desk Lamp,1,56050,Ulsan
+2026-10-21,T-0023,Storage,Portable SSD 1TB,7,139000,Ulsan
+2026-10-03,T-0034,Office,Mouse,7,20900,Daegu
+2026-10-22,T-0018,Office,Keyboard,7,45000,Gwangju
+2026-10-15,T-0013,Accessory,Webcam,1,89000,Jeju
+2026-10-15,T-0010,Storage,Portable SSD 1TB,4,132050,Busan
+2026-10-24,T-0049,Storage,Portable SSD 1TB,4,132050,Jeju
+2026-10-11,T-0052,Accessory,Webcam,2,89000,Seoul
+2026-10-05,T-0030,Office,Desk Lamp,4,59000,Jeju
+2026-10-12,T-0045,Accessory,Laptop Stand,2,41400,Jeju
+2026-10-01,T-0033,Office,Mechanical Keyboard,4,84550,Busan
+2026-10-13,T-0005,Office,Keyboard,4,45000,Daegu
+2026-10-09,T-0038,Accessory,USB-C Hub,4,78000,Daegu
+2026-10-22,T-0009,Accessory,Noise-Canceling Headset,7,145000,Daejeon
+2026-10-01,T-0026,Accessory,Webcam,4,80100,Jeju
+2026-10-03,T-0047,Office,Mouse,7,22000,Daejeon
+2026-10-07,T-0027,Monitor,24-inch Monitor,2,218500,Ulsan
+2026-10-04,T-0037,Storage,USB Drive 128GB,4,26600,Jeju
+2026-10-27,T-0016,Monitor,32-inch Monitor,7,480000,Gwangju
+2026-10-04,T-0001,Monitor,24-inch Monitor,4,207000,Daejeon
+2026-10-24,T-0024,Storage,USB Drive 128GB,4,26600,Daejeon
+2026-10-21,T-0048,Accessory,Noise-Canceling Headset,2,137750,Jeju
+2026-10-19,T-0003,Monitor,32-inch Monitor,4,432000,Daegu
+2026-10-18,T-0015,Monitor,27-inch Monitor,4,279000,Seoul
+2026-10-10,T-0021,Office,Mouse,2,19800,Incheon
+2026-10-25,T-0017,Office,Desk Lamp,2,56050,Daegu
+2026-10-27,T-0042,Monitor,32-inch Monitor,2,480000,Busan
+2026-10-08,T-0036,Storage,Portable SSD 1TB,7,125100,Incheon
+2026-10-19,T-0051,Accessory,USB-C Hub,4,78000,Gwangju
+2026-10-22,T-0050,Storage,USB Drive 128GB,1,25200,Incheon
+2026-10-19,T-0029,Monitor,32-inch Monitor,4,432000,Gwangju
+2026-10-07,T-0028,Monitor,27-inch Monitor,1,294500,Gwangju
+2026-10-27,T-0041,Monitor,27-inch Monitor,1,294500,Daejeon
+2026-10-06,T-0004,Office,Desk Lamp,2,59000,Daejeon
+2026-10-02,T-0011,Storage,USB Drive 128GB,7,28000,Incheon
+2026-10-16,T-0025,Accessory,USB-C Hub,1,78000,Daegu
